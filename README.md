@@ -22,3 +22,10 @@ I am very open to suggestions on how the code could be better.
   6. gulp-uglify (Inactive, but used to beautify, compress, and minify JavaScript files)
 2. Git
 3. SASS/SCSS, specifically SCSS.
+
+## Roadmap
+I eventually want to integrate the following into the project.
+* Bootstrap
+* Bower (To handle depencies).
+* HTML5 APIs.
+* Possibly jQuery or AngularJS to build the app out in a more modern fashion.
