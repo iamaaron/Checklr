@@ -1,0 +1,22 @@
+header {
+	width: 100%;
+	background: #0A7AA6;
+}
+header h1 {
+	float: left;
+	font-size: 36px;
+	padding: 40px 0 40px 24px;
+	color: #fff;
+	font-weight: 300;
+}
+header nav {float: right;}
+header nav ul {list-style: inside none;}
+header nav ul li {float: left;}
+header nav ul li a {
+	display: block;
+	color: #fff;
+	font-size: 18px;
+	padding: 50px 24px;
+	font-weight: 300;
+}
+header nav ul li a:hover {color: #C5D9D0;}
